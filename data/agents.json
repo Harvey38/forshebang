@@ -1,0 +1,47 @@
+[
+    {
+   
+  "firstname": "Whitey",
+  "lastname": "Williams",
+  "rank": "Agent Immobiliari",
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo asperiores sit eligendi eius voluptatem est voluptatibus excepturi, dolore aut esse nemo aliquid officiis officia iusto? Commodi magnam sapiente nihil voluptatum? Nobis, et? Nisi rem obcaecati corporis facere optio mollitia id esse numquam maxime eum ab eligendi quidem nam itaque ullam ipsum quo, iure unde harum? Labore dignissimos eligendi tenetur obcaecati? ",
+  "phone": 9765234418,
+  "email": "Pearls@hotmail.com ",
+  "skype": "shi.pearls",
+  "linkedin": "https://www.linkedin.com/in/Pearland-3a0965312/",
+  "img":"./images/agent-7.jpg" ,
+  "img1": "./public/property-1.jpg",
+  "img2": "./public/property-5.jpg",
+  "img3": "./public/property-7.jpg"
+    },
+    {
+   
+  "firstname": "Rafael",
+  "lastname": "Nadal",
+  "rank": "Chief Architect",
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo asperiores sit eligendi eius voluptatem est voluptatibus excepturi, dolore aut esse nemo aliquid officiis officia iusto? Commodi magnam sapiente nihil voluptatum? Nobis, et? Nisi rem obcaecati corporis facere optio mollitia id esse numquam maxime eum ab eligendi quidem nam itaque ullam ipsum quo, iure unde harum? Labore dignissimos eligendi tenetur obcaecati? ",
+  "phone": 9766134418,
+  "email": "Nadal@gmail.com ",
+  "skype": "raflu.pearls",
+  "linkedin": "https://www.linkedin.com/in/Champ-3a091245312/",
+  "img":"./public/agent-6.jpg" ,
+  "img1": "./public/property-1.jpg",
+  "img2": "./public/property-3.jpg",
+  "img3": "./public/property-9.jpg"
+    },
+    {
+   
+  "firstname": "Maria",
+  "lastname": "Sharapova",
+  "rank": "Chief Engineer",
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo asperiores sit eligendi eius voluptatem est voluptatibus excepturi, dolore aut esse nemo aliquid officiis officia iusto? Commodi magnam sapiente nihil voluptatum? Nobis, et? Nisi rem obcaecati corporis facere optio mollitia id esse numquam maxime eum ab eligendi quidem nam itaque ullam ipsum quo, iure unde harum? Labore dignissimos eligendi tenetur obcaecati? ",
+  "phone": 9312456982,
+  "email": "Mariahu@gmail.com ",
+  "skype": "mary.pearls",
+  "linkedin": "https://www.linkedin.com/in/Maria-3a091245312/",
+  "img":"./public/agent-5.jpg" ,
+  "img1": "./public/property-8.jpg",
+  "img2": "./public/property-9.jpg",
+  "img3": "./public/property-3.jpg"
+    }
+]
